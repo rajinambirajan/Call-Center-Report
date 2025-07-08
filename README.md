@@ -31,3 +31,39 @@ To analyze and visualize sales data using Excel. This dashboard helps in underst
 - ✅ Interactive filters by representative
 
 ---
+## 📁 Files Included
+
+- `https://github.com/rajinambirajan/Call-Center-Report/blob/main/07.sample-data-excel-portfolio-project.xlsx` – Excel dashboard file
+- `https://github.com/rajinambirajan/Call-Center-Report/commit/5d700837a27ab55964ef24f232548d8fe8fcb438` – Dashboard preview
+- `Demo_Video.mp4` *(optional if uploaded)*
+
+---
+
+## Questions
+
+**Q1: What is the goal of this dashboard?**  
+A: To visualize sales and support data for performance tracking and insights.
+
+**Q2: Is the data real?**  
+A: No, it's **sample/mock data** used for learning purposes.
+
+**Q3: How are Happy Callers calculated?**  
+A: Based on the number of callers who rated the call 4 or above.
+
+**Q4: What is the ranking logic for representatives?**  
+A: Based on total calls handled and amount generated.
+
+**Q5: What would you improve in the next version?**  
+A: Adding more dynamic filters (e.g., region, product) and better mobile compatibility.
+
+---
+
+## 📌 Tags
+
+`#ExcelDashboard` `#SalesAnalysis` `#PivotTable` `#BeginnerProject` `#DataVisualization` `#ExcelAnalytics`
+
+---
+
+## 🙌 Acknowledgement
+
+Created as part of my learning journey into **data analysis using Excel**. Open to feedback and collaboration!
