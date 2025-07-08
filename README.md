@@ -1,2 +1,4 @@
-# Call-Center-Report
-An interactive dashboard built using Excel Pivot Tables and Charts. This project focuses on summarizing and visualizing data to gain clear business insights. Great starting point for beginners in data analysis.
+# Sales Dashboard – My First Excel Project
+# Objective:
+To analyze and visualize sales data using Excel. This dashboard helps in understanding total sales, product-wise performance, regional trends, and other key business insights using Pivot Tables and Charts.
+
